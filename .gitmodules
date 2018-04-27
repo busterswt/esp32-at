@@ -1,3 +1,4 @@
 [submodule "esp-idf"]
+	url = https://github.com/ep00ch/esp-idf.git
+	branch = master
 	path = esp-idf
-	url = https://github.com/ep00ch/esp32-at.git
